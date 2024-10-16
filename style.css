@@ -1,0 +1,25 @@
+body{
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    background-color: black;
+    color: white;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+}
+
+#board{
+    margin-top: 50px;
+    border: 2px solid rgb(224, 218, 218,0.5);
+    padding: 2px;
+}
+
+#canvas{
+    width: 560px;
+    height: 560px;
+    background-color: rgb(159, 248, 26);
+}
